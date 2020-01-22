@@ -1,5 +1,6 @@
 {
-  "name": "e-commerce",
+  "homepage": "https://muzeyr.github.io/react-monster-example/",
+  "name": "monster",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
